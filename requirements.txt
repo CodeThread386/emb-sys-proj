@@ -1,0 +1,6 @@
+mediapipe>=0.10.9
+opencv-python>=4.9.0
+PyQt6>=6.6.0
+pyqtgraph>=0.13.3
+numpy>=1.26.0
+pyautogui>=0.9.54
