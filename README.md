@@ -8,7 +8,6 @@ A gesture-controlled desktop interface with a full embedded systems simulation r
 | Gesture | Action |
 |---|---|
 | Point (index finger) | Move cursor (trackpad mode) |
-| Fist | Show desktop (Meta+D) |
 | Open palm | Press Space bar |
 | Spiderman (thumb + index + pinky) | Toggle mute |
 | Three fingers (index + middle + ring) | Alt+Tab window cycling |
